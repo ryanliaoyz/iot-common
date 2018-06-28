@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/IdeaProjects/cocreg/cocreg.iml" filepath="$USER_HOME$/IdeaProjects/cocreg/cocreg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iot-springboot/iot.iml" filepath="$PROJECT_DIR$/../iot-springboot/iot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iot-common.iml" filepath="$PROJECT_DIR$/.idea/iot-common.iml" />
+    </modules>
+  </component>
+</project>
